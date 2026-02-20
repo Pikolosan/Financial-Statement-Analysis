@@ -1,0 +1,108 @@
+{
+  "business_segment": {
+    "labels": [
+      "Primary IT Services",
+      "Cloud Solutions",
+      "Consulting",
+      "Other"
+    ],
+    "values": [
+      450000,
+      380000,
+      145000,
+      25000
+    ]
+  },
+  "region": {
+    "labels": [
+      "North America",
+      "Europe",
+      "Asia Pacific",
+      "Others"
+    ],
+    "values": [
+      420000,
+      350000,
+      210000,
+      20000
+    ]
+  },
+  "revenue_profit_trend": {
+    "period": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "revenue": [
+      850000,
+      950000,
+      1050000,
+      1150000,
+      1350000
+    ],
+    "profit": [
+      125000,
+      165000,
+      195000,
+      245000,
+      310000
+    ]
+  },
+  "revenue_cost": {
+    "period": [
+      "Q1 2022",
+      "Q2 2022",
+      "Q3 2022",
+      "Q4 2022"
+    ],
+    "revenue": [
+      280000,
+      320000,
+      350000,
+      400000
+    ],
+    "costs": [
+      182000,
+      208000,
+      227500,
+      260000
+    ]
+  },
+  "cash_flow": {
+    "period": [
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "operating": [
+      95000,
+      115000,
+      140000,
+      175000,
+      220000
+    ],
+    "investing": [
+      -45000,
+      -55000,
+      -62000,
+      -75000,
+      -95000
+    ]
+  },
+  "balance_sheet": {
+    "categories": [
+      "Total Assets",
+      "Total Liabilities",
+      "Shareholders Equity"
+    ],
+    "values": [
+      3375000,
+      1012500,
+      2362500
+    ]
+  }
+}
