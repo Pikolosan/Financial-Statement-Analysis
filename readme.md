@@ -35,10 +35,10 @@ You can view the dashboard in three ways:
 ### 1. View Locally
 Simply open [index.html](index.html) in your web browser to see the interactive dashboard with sample financial data.
 
-### 2. GitHub Pages (Coming Soon)
-Once deployed to GitHub, the dashboard will be publicly accessible at:
+### 2. Live on Vercel ✅ (Deployed)
+The dashboard is now live and publicly accessible at:
 ```
-https://[your-username].github.io/[your-repo-name]
+https://financial-statement-analysis-fdmlr7ry8-pikolosans-projects.vercel.app/
 ```
 
 ## Dashboard Features
@@ -91,9 +91,23 @@ This script will:
 - **[extract_and_update_dashboard.py](extract_and_update_dashboard.py)** - Script to extract data from Excel and update dashboard
 - **[dashboard_data_exporter.py](dashboard_data_exporter.py)** - Python helper class for data export
 
-## Deploy to GitHub Pages
+## Deploy to Vercel (Recommended)
 
-To share your dashboard publicly:
+To share your dashboard publicly, deploy to Vercel:
+
+1. Go to [vercel.com](https://vercel.com)
+2. Sign up with GitHub
+3. Click "New Project" → "Import Git Repository"
+4. Select your repository
+5. Click "Deploy"
+6. Your dashboard goes live in 1-2 minutes!
+
+**Current Deployment:**
+```
+https://financial-statement-analysis-fdmlr7ry8-pikolosans-projects.vercel.app/
+```
+
+### Alternative: Deploy to GitHub Pages
 
 1. Create a GitHub repository
 2. Upload the following files:
